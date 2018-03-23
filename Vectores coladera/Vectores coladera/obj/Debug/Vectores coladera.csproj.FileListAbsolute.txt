@@ -1,0 +1,10 @@
+C:\Users\20136163\Desktop\Vectores coladera\Vectores coladera\bin\Debug\Vectores coladera.exe.config
+C:\Users\20136163\Desktop\Vectores coladera\Vectores coladera\bin\Debug\Vectores coladera.exe
+C:\Users\20136163\Desktop\Vectores coladera\Vectores coladera\bin\Debug\Vectores coladera.pdb
+C:\Users\20136163\Desktop\Vectores coladera\Vectores coladera\obj\Debug\Vectores coladera.csprojResolveAssemblyReference.cache
+C:\Users\20136163\Desktop\Vectores coladera\Vectores coladera\obj\Debug\Vectores_coladera.Form1.resources
+C:\Users\20136163\Desktop\Vectores coladera\Vectores coladera\obj\Debug\Vectores_coladera.Properties.Resources.resources
+C:\Users\20136163\Desktop\Vectores coladera\Vectores coladera\obj\Debug\Vectores coladera.csproj.GenerateResource.Cache
+C:\Users\20136163\Desktop\Vectores coladera\Vectores coladera\obj\Debug\Vectores coladera.csproj.CoreCompileInputs.cache
+C:\Users\20136163\Desktop\Vectores coladera\Vectores coladera\obj\Debug\Vectores coladera.exe
+C:\Users\20136163\Desktop\Vectores coladera\Vectores coladera\obj\Debug\Vectores coladera.pdb
